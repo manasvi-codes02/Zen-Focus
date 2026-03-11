@@ -26,3 +26,5 @@ Clone this repository.
 Open index.html in any modern web browser.
 
 Enter your focus point and press Enter to get started.
+🌐 Live Demo
+https://clever-daifuku-1939b5.netlify.app/
